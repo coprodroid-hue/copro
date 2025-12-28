@@ -27,7 +27,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.209
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080?name=0296+%7C+%F0%9F%87%B3%F0%9F%87%B1+Netherlands+%7C+SS+%7C+TG%3A+%40YoutubeUnBlockRu#145ms_UNKNOWN_@vlesstrojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYngxRnc3bUVOQ2Q3dlpNdm9yUVo1@193.29.139.227:8080?name=0341+%7C+%F0%9F%87%B3%F0%9F%87%B1+Netherlands+%7C+SS+%7C+TG%3A+%40YoutubeUnBlockRu#145ms_UNKNOWN_@vlesstrojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080?name=0348+%7C+%F0%9F%87%B3%F0%9F%87%B1+Netherlands+%7C+SS+%7C+TG%3A+%40YoutubeUnBlockRu#145ms_UNKNOWN_@vlesstrojan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#146ms_UNKNOWN_@vlesstrojan
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#146ms_UNKNOWN_@vlesstrojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#146ms_UNKNOWN_@vlesstrojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080?name=0194+%7C+%F0%9F%87%B3%F0%9F%87%B1+Netherlands+%7C+SS+%7C+TG%3A+%40YoutubeUnBlockRu#146ms_UNKNOWN_@vlesstrojan
@@ -84,7 +83,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#161ms_UNKNOWN_@vlesstrojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.217:8080?name=0349+%7C+%F0%9F%87%B3%F0%9F%87%B1+Netherlands+%7C+SS+%7C+TG%3A+%40YoutubeUnBlockRu#161ms_UNKNOWN_@vlesstrojan
 vless://c52e7342-2c31-4f0b-83e9-007ad8d1691a@us01-gmn-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#162ms_UNKNOWN_@vlesstrojan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#162ms_UNKNOWN_@vlesstrojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#162ms_UNKNOWN_@vlesstrojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZkFpeXJkRmJLSnVLSVFrR2p2SnJERmVmbUg4WURTQw@45.83.131.43:443?name=0358+%7C+%F0%9F%87%B8%F0%9F%87%AE+Slovenia+%7C+SS+%7C+TG%3A+%40YoutubeUnBlockRu#163ms_UNKNOWN_@vlesstrojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080?name=0259+%7C+%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+%7C+SS+%7C+TG%3A+%40YoutubeUnBlockRu#164ms_UNKNOWN_@vlesstrojan
@@ -998,3 +996,5 @@ vless://e3c18cd3-a9ca-44ba-b9f7-dc0f82c7baa2@84.201.168.45:443?type=tcp&security
 vless://e5017995-2093-491b-a0fa-d4890782d42a@yand84.volgaboost.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=IRsjdh3L1r-ci1BTwqOqEqQpzaQsYTm_zPZn7emViEo&sid=14ae379a3744bf89&type=tcp&headerType=none&name=0070+%7C+%F0%9F%8F%B3%EF%B8%8F+VK+%7C+%F0%9F%8C%8D+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#461ms_UNKNOWN_@vlesstrojan
 vless://e691472f-ce01-4fb8-b9de-ea801942ed76@84.201.143.90:443?type=tcp&security=reality&sni=kinopoisk.ru&pbk=1t6VzxMzjuTsiwc-4wux1dNa1WZcANF2cluIa5sWnTA&sid=f24fffeb33ff57e0&fp=chrome&spx=%2F&flow=xtls-rprx-vision#461ms_DE_@vlesstrojan
 vless://64bc8910-bc0f-453e-b3f3-a101a5dce03e@84.252.141.211:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=d17bd238f23fba92#461ms_UNKNOWN_@vlesstrojan
+vless://09713ae5-fed1-4002-84c0-e98a2f8b5e2b@pol01-ss01.tcp-reset-club.net:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&spx=%2F#462ms_UNKNOWN_@vlesstrojan
+vless://9db29659-b68e-466e-988a-6627572c2478@51.250.88.73:7443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=max.ru&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&packetEncoding=xudp#462ms_SE_@vlesstrojan
