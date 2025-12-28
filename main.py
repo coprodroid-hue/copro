@@ -306,7 +306,7 @@ if __name__ == "__main__":
     ru_files = save_chunked(res_ru_clean, FOLDER_RU, "ru_white")
     euro_files = save_chunked(res_euro_clean, FOLDER_EURO, "my_euro")
 
-    GITHUB_USER_REPO = "coprodroid-hue/coprocode"
+    GITHUB_USER_REPO = "coprodroid-hue/copro"
     BRANCH = "main"
     BASE_URL_RU = f"https://raw.githubusercontent.com/{GITHUB_USER_REPO}/{BRANCH}/{BASE_DIR}/RU_Best"
     BASE_URL_EURO = f"https://raw.githubusercontent.com/{GITHUB_USER_REPO}/{BRANCH}/{BASE_DIR}/My_Euro"
@@ -334,6 +334,7 @@ if __name__ == "__main__":
 
     print(f"Ссылки сформированы: RU={len(ru_files)}, EURO={len(euro_files)}")
     print("=== DONE SUCCESS ===")
+
 
 
 
