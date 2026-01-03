@@ -91,7 +91,8 @@ URLS_MY = [
     "https://raw.githubusercontent.com/YFTree/ClashNodes/refs/heads/main/V2Ray/4.txt",
     "https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt",
     "https://git.io/emzv2ray",
-    "https://raw.githubusercontent.com/y9felix/s/refs/heads/main/a"
+    "https://raw.githubusercontent.com/y9felix/s/refs/heads/main/a",
+    "https://raw.githubusercontent.com/bonymalomalo/vless-auto-update/refs/heads/main/vless-scan/vless.txt"
 ]
 
 EURO_CODES = {"NL", "DE", "FI", "GB", "FR", "SE", "PL", "CZ", "AT", "CH", "IT", "ES", "NO", "DK", "BE", "IE", "LU", "EE", "LV", "LT"}
@@ -334,6 +335,7 @@ if __name__ == "__main__":
 
     print(f"Ссылки сформированы: RU={len(ru_files)}, EURO={len(euro_files)}")
     print("=== DONE SUCCESS ===")
+
 
 
 
