@@ -8,3 +8,4 @@ https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/RU_Best/ru_w
 https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/My_Euro/my_euro_part1.txt | Euro (Part 1)
 https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/My_Euro/my_euro_part2.txt | Euro (Part 2)
 https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/My_Euro/my_euro_part3.txt | Euro (Part 3)
+https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/My_Euro/my_euro_part4.txt | Euro (Part 4)
