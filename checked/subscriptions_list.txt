@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/My_Euro/my_e
 https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/My_Euro/my_euro_part2.txt | Euro (Part 2)
 https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/My_Euro/my_euro_part3.txt | Euro (Part 3)
 https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/My_Euro/my_euro_part4.txt | Euro (Part 4)
+https://raw.githubusercontent.com/coprodroid-hue/copro/main/checked/My_Euro/my_euro_part5.txt | Euro (Part 5)
